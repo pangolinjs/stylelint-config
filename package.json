@@ -3,12 +3,17 @@
   "version": "1.0.1",
   "description": "Shareable stylelint config for Pangolin",
   "license": "MIT",
+  "homepage": "https://github.com/pangolinjs/eslint-config",
   "repository": {
     "type": "git",
     "url": "https://github.com/pangolinjs/stylelint-config"
   },
   "author": {
     "name": "Fynn Becker",
+    "email": "info@fynn-becker.de"
+  },
+  "bugs": {
+    "url": "https://github.com/pangolinjs/stylelint-config/issues",
     "email": "info@fynn-becker.de"
   },
   "keywords": [

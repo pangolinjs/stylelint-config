@@ -1,4 +1,4 @@
-# <img alt="" src="https://cdn.rawgit.com/pangolinjs/brand/master/icon/icon.svg" width="24"> Pangolin Stylelint Config
+# <img alt="" src="https://cdn.rawgit.com/pangolinjs/brand/master/icon/icon.svg" width="24"> Pangolin stylelint Config
 
 [![NPM version][npm-image]][npm-url]
 [![Dependencies][dependencies-image]][npm-url]
@@ -39,7 +39,9 @@ Overwrite any rule from this config:
 }
 ```
 
-stylelint has an extensive [list of rules](https://stylelint.io/user-guide/rules/). Additional rules are provided by [stylelint-order](https://github.com/hudochenkov/stylelint-order) and [stylelint-scss](https://github.com/kristerkari/stylelint-scss).
+stylelint has an extensive [list of rules](https://stylelint.io/user-guide/rules/). Additional rules are provided by the following plugins:
+- [stylelint-order](https://github.com/hudochenkov/stylelint-order)
+- [stylelint-scss](https://github.com/kristerkari/stylelint-scss).
 
 
 ## Configured rules
@@ -48,7 +50,7 @@ This config sets a few extra rules in addition to the ones from `stylelint-confi
 
 - [`comment-word-blacklist`](https://stylelint.io/user-guide/rules/comment-word-blacklist/): Highlight comments starting with `TODO:`, `FIX:`, and `FIXME` (warning).
 - [`declaration-no-important`](https://stylelint.io/user-guide/rules/declaration-no-important/): Disallow `!important`.
-- [`max-nesting-depth`](https://stylelint.io/user-guide/rules/max-nesting-depth/): Limit the nesting depth to 3.
+- [`max-nesting-depth`](https://stylelint.io/user-guide/rules/max-nesting-depth/): Limit the nesting depth to 3 (warning).
 - [`no-duplicate-selectors`](https://stylelint.io/user-guide/rules/no-duplicate-selectors/): Disallow duplicate selectors.
 - [`no-unknown-animations`](https://stylelint.io/user-guide/rules/no-unknown-animations/): Disallow unknown animations.
 - [`order/properties-alphabetical-order`](https://github.com/hudochenkov/stylelint-order/tree/master/rules/properties-alphabetical-order): Allow any ordering style.
