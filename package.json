@@ -21,7 +21,9 @@
   },
   "main": "index.js",
   "files": [
-    "index.js"
+    "index.js",
+    "npm-shrinkwrap.json",
+    "yarn.lock"
   ],
   "dependencies": {
     "stylelint-config-sass-guidelines": "^5.0.0",
