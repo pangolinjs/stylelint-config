@@ -1,0 +1,43 @@
+{
+  "name": "@pangolin/stylelint-config",
+  "version": "1.0.0",
+  "description": "Shareable stylelint config for Pangolin",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pangolinjs/stylelint-config"
+  },
+  "author": {
+    "name": "Fynn Becker",
+    "email": "info@fynn-becker.de"
+  },
+  "keywords": [
+    "front end",
+    "pangolin",
+    "styleguide",
+    "stylelint"
+  ],
+  "scripts": {
+    "lint:js": "eslint -f codeframe *.js"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "stylelint-config-sass-guidelines": "^5.0.0",
+    "stylelint-order": "^0.8.1",
+    "stylelint-scss": "^3.2.0"
+  },
+  "peerDependencies": {
+    "stylelint": "^9.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.2.0",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-promise": "^3.8.0",
+    "eslint-plugin-standard": "^3.1.0"
+  }
+}
