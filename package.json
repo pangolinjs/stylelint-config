@@ -12,10 +12,9 @@
     "email": "info@fynn-becker.de"
   },
   "keywords": [
-    "front end",
     "pangolin",
-    "styleguide",
-    "stylelint"
+    "stylelint",
+    "stylelint-config"
   ],
   "scripts": {
     "lint:js": "eslint -f codeframe *.js"
