@@ -1,6 +1,6 @@
 {
   "name": "@pangolin/stylelint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shareable stylelint config for Pangolin",
   "license": "MIT",
   "repository": {
