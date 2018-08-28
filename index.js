@@ -1,8 +1,6 @@
-'use strict'
-
 module.exports = {
-  'extends': 'stylelint-config-sass-guidelines',
-  'rules': {
+  extends: 'stylelint-config-sass-guidelines',
+  rules: {
     'comment-word-blacklist': [['/^TODO:/i', '/^FIX:/i', '/^FIXME:/i'], {
       severity: 'warning'
     }],
