@@ -22,7 +22,7 @@
     "stylelint-config"
   ],
   "scripts": {
-    "lint:js": "eslint -f codeframe *.js"
+    "lint": "eslint -f codeframe *.js"
   },
   "main": "index.js",
   "files": [
