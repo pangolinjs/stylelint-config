@@ -2,6 +2,14 @@
 
 
 
+## 1.4.0
+2019-03-12
+
+- Allow multiline functions
+- Update dependencies
+
+
+
 ## 1.3.0
 2019-01-15
 
