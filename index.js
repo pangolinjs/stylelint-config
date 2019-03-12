@@ -5,6 +5,8 @@ module.exports = {
       severity: 'warning'
     }],
     'declaration-no-important': true,
+    'function-parentheses-space-inside': 'never-single-line',
+    'function-parentheses-newline-inside': 'always-multi-line',
     'max-nesting-depth': [3, {
       severity: 'warning'
     }],
