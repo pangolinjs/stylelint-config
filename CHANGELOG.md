@@ -1,5 +1,14 @@
 # Changelog
 
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+### [1.4.1](https://github.com/pangolinjs/stylelint-config/compare/v1.4.0...v1.4.1) (2019-05-25)
+
+
+### Bug Fixes
+
+* Don't include npm-shrinkwrap.json and yarn.lock in distribution ([84ef7e8](https://github.com/pangolinjs/stylelint-config/commit/84ef7e8))
+
 
 
 ## 1.4.0
