@@ -22,13 +22,12 @@
     "stylelint-config"
   ],
   "scripts": {
-    "lint": "eslint -f codeframe *.js"
+    "lint": "eslint -f codeframe *.js",
+    "release": "standard-version"
   },
   "main": "index.js",
   "files": [
-    "index.js",
-    "npm-shrinkwrap.json",
-    "yarn.lock"
+    "index.js"
   ],
   "dependencies": {
     "stylelint-config-sass-guidelines": "^6.0.0",
