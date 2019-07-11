@@ -25,9 +25,9 @@
     "lint": "eslint -f codeframe *.js",
     "release": "standard-version"
   },
-  "main": "index.js",
+  "main": "stylelint.config.js",
   "files": [
-    "index.js"
+    "stylelint.config.js"
   ],
   "dependencies": {
     "stylelint-config-sass-guidelines": "^6.0.0",
@@ -44,6 +44,7 @@
     "eslint-plugin-node": "^9.1.0",
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-standard": "^4.0.0",
-    "standard-version": "^6.0.1"
+    "standard-version": "^6.0.1",
+    "stylelint": "^10.1.0"
   }
 }
