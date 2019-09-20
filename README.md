@@ -1,16 +1,16 @@
-# <img alt="" src="https://cdn.rawgit.com/pangolinjs/brand/master/icon/icon.svg" width="24"> Pangolin stylelint config
+# <img alt="" src="https://cdn.jsdelivr.net/gh/pangolinjs/brand@master/icon/icon.svg" width="24"> Pangolin.js stylelint config
 
 [![NPM version][npm-image]][npm-url]
-[![Dependencies][dependencies-image]][npm-url]
+[![Dependencies][dependencies-image]][dependencies-url]
 [![JavaScript Standard Style][standard-image]][standard-url]
 
-Shareable stylelint config for Pangolin based on
+Shareable stylelint config for Pangolin.js based on
 [stylelint-config-sass-guidelines](https://github.com/bjankord/stylelint-config-sass-guidelines).
 
 ## Installation
 
 ```bash
-npm install @pangolin/stylelint-config --save-dev
+npm install @pangolinjs/stylelint-config --save-dev
 ```
 
 ## Usage
@@ -23,7 +23,7 @@ either as a JSON or a JavaScript file:
 ```json
 {
   "extends": [
-    "@pangolin/stylelint-config"
+    "@pangolinjs/stylelint-config"
   ]
 }
 ```
@@ -33,7 +33,7 @@ either as a JSON or a JavaScript file:
 ```js
 module.exports = {
   extends: [
-    '@pangolin/stylelint-config'
+    '@pangolinjs/stylelint-config'
   ]
 }
 ```
@@ -45,7 +45,7 @@ Overwrite any rule from this config:
 ```json
 {
   "extends": [
-    "@pangolin/stylelint-config"
+    "@pangolinjs/stylelint-config"
   ],
   "rules": {
     "number-leading-zero": null
@@ -85,8 +85,9 @@ This config sets a few extra rules in addition to the ones from `stylelint-confi
 - [`string-quotes`](https://stylelint.io/user-guide/rules/string-quotes/):
   Only allow double quotes to align with the official specs and MDN.
 
-[npm-image]: https://img.shields.io/npm/v/@pangolin/stylelint-config.svg?style=flat-square
-[npm-url]: https://www.npmjs.com/package/@pangolin/stylelint-config
+[npm-image]: https://img.shields.io/npm/v/@pangolinjs/stylelint-config.svg?style=flat-square
+[npm-url]: https://www.npmjs.com/package/@pangolinjs/stylelint-config
+[dependencies-url]: https://www.npmjs.com/package/@pangolinjs/stylelint-config?activeTab=dependencies
 
 [dependencies-image]: https://img.shields.io/david/pangolinjs/stylelint-config.svg?style=flat-square
 

@@ -1,7 +1,7 @@
 {
-  "name": "@pangolin/stylelint-config",
+  "name": "@pangolinjs/stylelint-config",
   "version": "1.5.0",
-  "description": "Shareable stylelint config for Pangolin",
+  "description": "Shareable stylelint config for Pangolin.js",
   "license": "MIT",
   "homepage": "https://github.com/pangolinjs/stylelint-config",
   "repository": {
@@ -17,10 +17,13 @@
     "email": "post@fynn.be"
   },
   "keywords": [
-    "pangolin",
+    "pangolinjs",
     "stylelint",
     "stylelint-config"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "lint": "eslint -f codeframe '*.js'",
     "release": "standard-version"
