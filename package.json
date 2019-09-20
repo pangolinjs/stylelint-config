@@ -22,7 +22,7 @@
     "stylelint-config"
   ],
   "scripts": {
-    "lint": "eslint -f codeframe *.js",
+    "lint": "eslint -f codeframe '*.js'",
     "release": "standard-version"
   },
   "main": "stylelint.config.js",
@@ -30,21 +30,21 @@
     "stylelint.config.js"
   ],
   "dependencies": {
-    "stylelint-config-sass-guidelines": "^6.0.0",
-    "stylelint-order": "^3.0.1",
-    "stylelint-scss": "^3.10.0"
+    "stylelint-config-sass-guidelines": "^6.1.0",
+    "stylelint-order": "^3.1.1",
+    "stylelint-scss": "^3.11.0"
   },
   "peerDependencies": {
-    "stylelint": "^10.1.0"
+    "stylelint": "^11.0.0"
   },
   "devDependencies": {
-    "eslint": "^6.2.2",
-    "eslint-config-standard": "^14.0.1",
+    "eslint": "^6.4.0",
+    "eslint-config-standard": "^14.1.0",
     "eslint-plugin-import": "^2.18.2",
-    "eslint-plugin-node": "^9.1.0",
+    "eslint-plugin-node": "^10.0.0",
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-standard": "^4.0.1",
     "standard-version": "^7.0.0",
-    "stylelint": "^10.1.0"
+    "stylelint": "^11.0.0"
   }
 }
