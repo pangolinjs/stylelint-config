@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.6.0](https://github.com/pangolinjs/stylelint-config/compare/v1.5.0...v1.6.0) (2019-09-20)
+
+
+### Features
+
+* Rename to `@pangolinjs/stylelint-config` ([69d39b3](https://github.com/pangolinjs/stylelint-config/commit/69d39b3))
+
 ## [1.5.0](https://github.com/pangolinjs/stylelint-config/compare/v1.4.2...v1.5.0) (2019-07-11)
 
 
