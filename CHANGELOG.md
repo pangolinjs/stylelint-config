@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.7.0](https://github.com/pangolinjs/stylelint-config/compare/v1.6.0...v1.7.0) (2019-10-27)
+
+
+### Features
+
+* Update for Sass Modules compatibility ([61d2510](https://github.com/pangolinjs/stylelint-config/commit/61d2510))
+
 ## [1.6.0](https://github.com/pangolinjs/stylelint-config/compare/v1.5.0...v1.6.0) (2019-09-20)
 
 
