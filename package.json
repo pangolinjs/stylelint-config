@@ -25,7 +25,7 @@
     "access": "public"
   },
   "scripts": {
-    "lint": "eslint -f codeframe '*.js'",
+    "lint": "eslint --cache --format codeframe stylelint.config.js",
     "release": "standard-version"
   },
   "main": "stylelint.config.js",
