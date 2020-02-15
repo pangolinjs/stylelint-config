@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.8.0](https://github.com/pangolinjs/stylelint-config/compare/v1.7.1...v1.8.0) (2020-02-15)
+
+
+### Features
+
+* Re-license under Hippocratic License ([fcfb2a3](https://github.com/pangolinjs/stylelint-config/commit/fcfb2a3b0271835d3fa99d3bc666a6700f7dca29))
+* Update dependencies ([167ebf3](https://github.com/pangolinjs/stylelint-config/commit/167ebf3d10d3ac1ac9b32e29942920e420f27b32))
+
 ### [1.7.1](https://github.com/pangolinjs/stylelint-config/compare/v1.7.0...v1.7.1) (2020-01-07)
 
 ## [1.7.0](https://github.com/pangolinjs/stylelint-config/compare/v1.6.0...v1.7.0) (2019-10-27)
