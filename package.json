@@ -2,7 +2,7 @@
   "name": "@pangolinjs/stylelint-config",
   "version": "1.7.1",
   "description": "Shareable stylelint config for Pangolin.js",
-  "license": "MIT",
+  "license": "See license in LICENSE.md",
   "homepage": "https://github.com/pangolinjs/stylelint-config",
   "repository": {
     "type": "git",
