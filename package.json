@@ -2,7 +2,7 @@
   "name": "@pangolinjs/stylelint-config",
   "version": "1.8.0",
   "description": "Shareable stylelint config for Pangolin.js",
-  "license": "See license in LICENSE.md",
+  "license": "Hippocratic License 2.1",
   "homepage": "https://github.com/pangolinjs/stylelint-config",
   "repository": {
     "type": "git",
