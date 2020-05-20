@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/pangolinjs/stylelint-config/compare/v1.8.1...v2.0.0) (2020-05-20)
+
+
+### ⚠ BREAKING CHANGES
+
+* Move dependencies to peerDependencies. This allows independent dependency updates for the package consumer. But it requires manual installation of these peers.
+
+### Features
+
+* Add tons of cosmetic changes ([d282a94](https://github.com/pangolinjs/stylelint-config/commit/d282a9452bc09306429fd8edc4354f0f3c4c4148))
+* Make dependencies peers ([1677b87](https://github.com/pangolinjs/stylelint-config/commit/1677b87011e9eacb6ec353b2177688610163a7fa))
+
 ### [1.8.1](https://github.com/pangolinjs/stylelint-config/compare/v1.8.0...v1.8.1) (2020-03-31)
 
 ## [1.8.0](https://github.com/pangolinjs/stylelint-config/compare/v1.7.1...v1.8.0) (2020-02-15)
