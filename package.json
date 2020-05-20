@@ -25,12 +25,12 @@
     "access": "public"
   },
   "scripts": {
-    "lint": "eslint --cache --format codeframe stylelint.config.js",
+    "lint": "eslint --cache --format codeframe .",
     "release": "standard-version"
   },
-  "main": "stylelint.config.js",
+  "main": "index.js",
   "files": [
-    "stylelint.config.js"
+    "index.js"
   ],
   "dependencies": {
     "stylelint-config-sass-guidelines": "^7.0.0",
