@@ -48,7 +48,7 @@ module.exports = {
     linebreaks: 'unix',
     'max-empty-lines': 1,
     'max-nesting-depth': [
-      2,
+      3,
       {
         severity: 'warning',
         ignoreAtRules: [
