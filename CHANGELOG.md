@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.1](https://github.com/pangolinjs/stylelint-config/compare/v2.0.0...v2.0.1) (2020-05-26)
+
+
+### Bug Fixes
+
+* Make nesting depth a bit more liberal ([e5b6c18](https://github.com/pangolinjs/stylelint-config/commit/e5b6c18c4024eab7ebefcf100c115ecc5627b2ce))
+
 ## [2.0.0](https://github.com/pangolinjs/stylelint-config/compare/v1.8.1...v2.0.0) (2020-05-20)
 
 
