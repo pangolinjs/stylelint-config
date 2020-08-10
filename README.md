@@ -1,4 +1,4 @@
-# <img alt="" src="https://cdn.jsdelivr.net/gh/pangolinjs/brand/icon/icon.svg" width="24"> Pangolin.js stylelint config
+# <img alt="" src="https://cdn.jsdelivr.net/gh/pangolinjs/brand@main/icon/icon.svg" width="24"> Pangolin.js stylelint config
 
 Shareable stylelint config for Pangolin.js based on [stylelint-config-sass-guidelines](https://github.com/bjankord/stylelint-config-sass-guidelines).
 
