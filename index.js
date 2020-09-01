@@ -8,7 +8,7 @@ module.exports = {
   ],
   rules: {
     'alpha-value-notation': 'number',
-    'at-rule-blacklist': ['debug'],
+    'at-rule-disallowed-list': ['debug'],
     'at-rule-name-case': 'lower',
     'at-rule-no-unknown': null,
     'at-rule-no-vendor-prefix': true,
@@ -20,7 +20,7 @@ module.exports = {
     'color-named': 'never',
     'color-no-invalid-hex': true,
     'comment-no-empty': true,
-    'comment-word-blacklist': [
+    'comment-word-disallowed-list': [
       ['/^TODO:/i', '/^FIX:/i', '/^FIXME:/i'],
       { severity: 'warning' }
     ],
