@@ -26,6 +26,7 @@
   },
   "scripts": {
     "lint": "eslint --cache --format codeframe .",
+    "test": "stylelint test.scss",
     "release": "standard-version"
   },
   "main": "index.js",
