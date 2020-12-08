@@ -25,7 +25,7 @@
     "access": "public"
   },
   "scripts": {
-    "lint": "eslint --cache --format codeframe .",
+    "lint": "eslint --format codeframe .",
     "test": "stylelint test.scss",
     "release": "standard-version"
   },
