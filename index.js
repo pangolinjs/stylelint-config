@@ -1,6 +1,4 @@
-/**
- * @type {import('stylelint').Configuration}
- */
+/** @type {import('stylelint').Configuration} */
 module.exports = {
   plugins: [
     'stylelint-order',
