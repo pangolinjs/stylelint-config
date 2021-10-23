@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.0.0](https://github.com/pangolinjs/stylelint-config/compare/v2.0.6...v3.0.0) (2021-10-23)
+
+
+### ⚠ BREAKING CHANGES
+
+* Stylelint 14 no longer automagically guesses the CSS syntax based on file extension.
+
+Please add postcss-scss to your development dependencies:
+
+```sh
+npm install --save-dev postcss-scss
+```
+
+### Features
+
+* Update to Stylelint 14 ([c3ba480](https://github.com/pangolinjs/stylelint-config/commit/c3ba480e6e635436022bdfb2f83bb32eac00af4e))
+
 ### [2.0.6](https://github.com/pangolinjs/stylelint-config/compare/v2.0.5...v2.0.6) (2021-06-18)
 
 ### [2.0.5](https://github.com/pangolinjs/stylelint-config/compare/v2.0.4...v2.0.5) (2021-04-07)
