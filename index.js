@@ -1,5 +1,6 @@
-/** @type {import('stylelint').Configuration} */
+/** @type {import('stylelint').Config} */
 module.exports = {
+  customSyntax: 'postcss-scss',
   plugins: [
     'stylelint-order',
     'stylelint-scss'
@@ -32,7 +33,6 @@ module.exports = {
     'declaration-colon-space-before': 'never',
     'declaration-no-important': true,
     'font-family-name-quotes': 'always-unless-keyword',
-    'function-calc-no-invalid': true,
     'function-calc-no-unspaced-operator': true,
     'function-comma-space-after': 'always-single-line',
     'function-linear-gradient-no-nonstandard-direction': true,
