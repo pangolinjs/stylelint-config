@@ -31,22 +31,22 @@
     "index.js"
   ],
   "devDependencies": {
-    "@pangolinjs/eslint-config": "^5.3.1",
-    "eslint": "^8.1.0",
-    "eslint-config-standard": "^16.0.3",
-    "eslint-plugin-import": "^2.25.2",
-    "eslint-plugin-node": "^11.1.0",
-    "eslint-plugin-promise": "^5.1.1",
-    "postcss-scss": "^4.0.1",
+    "@pangolinjs/eslint-config": "^6.0.0",
+    "eslint": "^8.12.0",
+    "eslint-config-standard": "^17.0.0-1",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-n": "^15.1.0",
+    "eslint-plugin-promise": "^6.0.0",
+    "postcss-scss": "^4.0.3",
     "standard-version": "^9.3.2",
-    "stylelint": "^14.0.0",
+    "stylelint": "^14.6.1",
     "stylelint-order": "^5.0.0",
-    "stylelint-scss": "^4.0.0"
+    "stylelint-scss": "^4.2.0"
   },
   "peerDependencies": {
-    "postcss-scss": "^4.0.1",
-    "stylelint": "^14.0.0",
+    "postcss-scss": "^4.0.3",
+    "stylelint": "^14.6.1",
     "stylelint-order": "^5.0.0",
-    "stylelint-scss": "^4.0.0"
+    "stylelint-scss": "^4.2.0"
   }
 }
