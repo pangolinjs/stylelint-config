@@ -7,11 +7,7 @@ Shareable stylelint config for Pangolin.js based on [stylelint-config-sass-guide
 Install the configuration and all peer dependencies with one command:
 
 ```bash
-npm install --save-dev \
-  @pangolinjs/stylelint-config \
-  stylelint \
-  stylelint-order \
-  stylelint-scss
+npm install --save-dev @pangolinjs/stylelint-config stylelint
 ```
 
 ## Usage
@@ -73,4 +69,3 @@ module.exports = {
 stylelint has an extensive [list of rules](https://stylelint.io/user-guide/rules/). Additional rules are provided by the following plugins:
 
 - [stylelint-order](https://github.com/hudochenkov/stylelint-order)
-- [stylelint-scss](https://github.com/kristerkari/stylelint-scss).
