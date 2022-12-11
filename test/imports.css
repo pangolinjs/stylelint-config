@@ -1,0 +1,7 @@
+/* Base */
+@import "./a.css";
+@import "./b.css";
+
+/* Components */
+@import "./c.css";
+@import "./d.css";

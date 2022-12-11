@@ -1,0 +1,64 @@
+/* Utilities */
+.u-utility,
+.u-utilityName,
+.u-condition-utility,
+.u-condition-utilityName,
+
+/* States */
+.is-state,
+.is-stateName,
+.has-state,
+.has-stateName,
+
+/* Single name component */
+.Component,
+.Component--modifier,
+.Component--modifier.is-state,
+.Component--modifier.is-stateName,
+.Component--modifier.has-state,
+.Component--modifier.has-stateName,
+.Component--modifierName,
+.Component--modifierName.is-state,
+.Component--modifierName.is-stateName,
+.Component--modifierName.has-state,
+.Component--modifierName.has-stateName,
+.Component.is-state,
+.Component.is-stateName,
+.Component.has-state,
+.Component.has-stateName,
+
+/* PascalCase component */
+.ComponentName,
+.ComponentName--modifier,
+.ComponentName--modifier.is-state,
+.ComponentName--modifier.is-stateName,
+.ComponentName--modifier.has-state,
+.ComponentName--modifier.has-stateName,
+.ComponentName--modifierName,
+.ComponentName--modifierName.is-state,
+.ComponentName--modifierName.is-stateName,
+.ComponentName--modifierName.has-state,
+.ComponentName--modifierName.has-stateName,
+.ComponentName.is-state,
+.ComponentName.is-stateName,
+.ComponentName.has-state,
+.ComponentName.has-stateName {
+	color: hotpink;
+}
+
+.Test,
+.TestTwo {
+	color: red;
+}
+
+[aria-current="true"] {
+	text-decoration: underline;
+}
+
+a > span {
+	color: red;
+}
+
+a:not(:hover) {
+	color: red;
+}

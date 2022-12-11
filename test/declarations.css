@@ -1,0 +1,6 @@
+.Component {
+	--test: green;
+
+	color: hotpink;
+	background: darkblue;
+}

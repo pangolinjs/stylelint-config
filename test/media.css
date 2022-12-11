@@ -1,0 +1,25 @@
+@media (min-width: 40rem) {
+	.Component {
+		color: hotpink;
+	}
+}
+
+@media (width >= 40rem) {
+	.Component {
+		color: hotpink;
+	}
+}
+
+@media
+	(width >= 40rem) and (height >= 30rem),
+	(prefers-reduced-motion: no-preference) {
+	.Component {
+		color: hotpink;
+	}
+}
+
+@media (width >= 40rem), (height >= 30rem) {
+	.Component {
+		color: hotpink;
+	}
+}
