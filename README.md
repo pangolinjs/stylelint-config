@@ -2,6 +2,8 @@
 
 Shareable stylelint config for Pangolin.js based on [stylelint-config-sass-guidelines](https://github.com/bjankord/stylelint-config-sass-guidelines).
 
+The class name pattern follows the [Suit CSS naming convention](https://github.com/suitcss/suit/blob/master/doc/naming-conventions.md).
+
 ## Installation
 
 Install the configuration and all peer dependencies with one command:
