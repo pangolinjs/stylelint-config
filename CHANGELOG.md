@@ -2,6 +2,25 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.0.0](https://github.com/pangolinjs/stylelint-config/compare/v3.0.1...v4.0.0) (2022-12-31)
+
+
+### ⚠ BREAKING CHANGES
+
+* Complete overhaul for the linting rules.
+* Suit CSS naming convention.
+* Indentation with tabs.
+* Consistent whitespaces.
+
+### Features
+
+* Overhauled linting rules ([e4a3809](https://github.com/pangolinjs/stylelint-config/commit/e4a3809fbd6eb269782321b2d221854ff9e593f1))
+
+
+### Bug Fixes
+
+* selector-class-pattern regex for modifiers ([dca7fad](https://github.com/pangolinjs/stylelint-config/commit/dca7fad4a0456aed45b64fc3e7de9fea928a46d6))
+
 ### [3.0.1](https://github.com/pangolinjs/stylelint-config/compare/v3.0.0...v3.0.1) (2022-03-26)
 
 ## [3.0.0](https://github.com/pangolinjs/stylelint-config/compare/v2.0.6...v3.0.0) (2021-10-23)
