@@ -42,7 +42,17 @@
 .ComponentName.is-state,
 .ComponentName.is-stateName,
 .ComponentName.has-state,
-.ComponentName.has-stateName {
+.ComponentName.has-stateName,
+
+/* Subcomponent */
+.Component-sub,
+.Component-sub--modifier,
+.Component-subComponent,
+.Component-subComponent--modifier,
+.ComponentName-sub,
+.ComponentName-sub--modifier,
+.ComponentName-subComponent,
+.ComponentName-subComponent--modifier {
 	color: hotpink;
 }
 

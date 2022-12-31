@@ -126,7 +126,7 @@ module.exports = {
 		'selector-attribute-operator-space-after': 'never',
 		'selector-attribute-operator-space-before': 'never',
 		'selector-attribute-quotes': 'always',
-		'selector-class-pattern': ['^(u(-[a-z]+)?|is|has|([A-Z][a-z]+)+)(--?[a-z][A-Za-z]*)?$', {
+		'selector-class-pattern': ['^(u(-[a-z]+)?|is|has|([A-Z][a-z]+)+)(-[a-z][A-Za-z]*)?(--[a-z][A-Za-z]*)?$', {
 			message: 'Expected selector format ComponentName[-descendantName|--modifierName], u-[condition-]utilityName, {is|has}-stateName',
 		}],
 		'selector-combinator-space-after': 'always',
