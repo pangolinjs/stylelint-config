@@ -32,9 +32,9 @@
 	],
 	"devDependencies": {
 		"@pangolinjs/eslint-config": "^7.0.0",
-		"eslint": "^8.29.0",
+		"eslint": "^8.31.0",
 		"standard-version": "^9.5.0",
-		"stylelint": "^14.16.0",
+		"stylelint": "^14.16.1",
 		"stylelint-order": "^5.0.0"
 	},
 	"peerDependencies": {
